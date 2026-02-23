@@ -1,6 +1,8 @@
 ## Hi there 👋
 
-I'm Harshan, an Engineering Science student at the University of Toronto. I enjoy all things programming, robotics, and mechanical systems.
+I'm Harshan, an Engineering Science student at the University of Toronto. 
+
+I enjoy all things programming, robotics, and mechanical systems.
 
 Feel free to reach out: h.baranthagan@mail.utoronto.ca
 <!--
