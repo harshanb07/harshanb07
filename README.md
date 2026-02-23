@@ -4,7 +4,7 @@ I'm Harshan, an Engineering Science student at the University of Toronto.
 
 I enjoy programming, embedded & electrical systems, and mechanical design.
 
-Feel free to reach out at h.baranthagan@mail.utoronto.ca
+Reach out at h.baranthagan@mail.utoronto.ca!
 <!--
 
 **harshanb07/harshanb07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
