@@ -7,7 +7,7 @@ I enjoy programming, embedded & electrical systems, and mechanical design.
 # 📊 GitHub Stats:
 
 ![](https://nirzak-streak-stats.vercel.app/?user=harshanb07&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?
+
 
 
 
