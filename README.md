@@ -5,7 +5,7 @@ I'm Harshan, an Engineering Science student at the University of Toronto.
 I enjoy programming, embedded & electrical systems, and mechanical design.
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=harshanb07&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+
 ![](https://nirzak-streak-stats.vercel.app/?user=harshanb07&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=harshanb07&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
