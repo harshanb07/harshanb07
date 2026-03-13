@@ -9,10 +9,7 @@ I enjoy programming, embedded & electrical systems, and mechanical design.
 ![](https://nirzak-streak-stats.vercel.app/?user=harshanb07&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?
 
----
-[![](https://visitcount.itsvg.in/api?id=harshanb07&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 Reach out at h.baranthagan@mail.utoronto.ca.
 <!--
