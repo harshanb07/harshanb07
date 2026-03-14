@@ -2,7 +2,7 @@
 
 I'm Harshan, an Engineering Science student at the University of Toronto. 
 
-I enjoy programming, embedded & electrical systems, and mechanical design.s
+I enjoy programming, embedded & electrical systems, and mechanical design.
 
 # 📊 GitHub Stats:
 
