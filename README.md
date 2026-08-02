@@ -2,9 +2,7 @@
 
 I'm Harshan, an Engineering Science student at the University of Toronto. 
 
-I enjoy programming, embedded & electrical systems, and mechanical design.
-
-
+I enjoy robotics, especially at the intersection of software and AI, electrical and embedded systems, and mechanical engineering.
 
 
 
