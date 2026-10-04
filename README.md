@@ -2,8 +2,7 @@
 
 I'm Harshan, an Engineering Science student at the University of Toronto. 
 
-I enjoy robotics, especially at the intersection of software, AI, and embedded systems.
-
+I enjoy software, embedded systems, and robotics. 
 
 
 Reach out at h.baranthagan@mail.utoronto.ca.
