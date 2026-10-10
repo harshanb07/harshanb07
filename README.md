@@ -2,8 +2,7 @@
 
 I'm Harshan, an Engineering Science student at the University of Toronto. 
 
-I enjoy software/AI, embedded systems, robotics, and the realm of manufacturing. 
-
+Interests: Software/AI, Embedded Systems, Robotics, Automation/Controls, and the realm of manufacturing
 
 Reach out at h.baranthagan@mail.utoronto.ca.
 <!--
